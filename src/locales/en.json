@@ -11,56 +11,5 @@
   "saveNote": "Save Note",
   "savedMessage": "Your note has been saved!",
   "historyTitle": "History",
-  "deleteNote": "Delete Note",
-  "archetypes": [
-    {
-      "name": "Caregiver",
-      "image": "/cards/caregiver.jpg",
-      "light": "Love, care, sacrifice.",
-      "shadow": "Dependency, lack of confidence, self-denial.",
-      "reflection": "What can you do to take better care of yourself?"
-    },
-    {
-      "name": "Creator",
-      "image": "/cards/creator.jpg",
-      "light": "Creativity, imagination, innovation.",
-      "shadow": "Skepticism, lack of confidence, procrastination.",
-      "reflection": "What can you do to unleash your creativity?"
-    },
-    {
-      "name": "Dreamer",
-      "image": "/cards/dreamer.jpg",
-      "light": "Imagination, vision, creativity.",
-      "shadow": "Unrealistic, escapism, uncertainty.",
-      "reflection": "What can you do to turn your dreams into reality?"
-    },
-    {
-      "name": "Inner Child",
-      "image": "/cards/innerchild.jpg",
-      "light": "Innocence, joy, freedom.",
-      "shadow": "Hurt, lack of confidence, self-denial.",
-      "reflection": "What can you do to reconnect with your inner child?"
-    },
-    {
-      "name": "Ruler",
-      "image": "/cards/ruler.jpg",
-      "light": "Leadership, confidence, organization.",
-      "shadow": "Dictatorship, control, inflexibility.",
-      "reflection": "What can you do to become a better leader?"
-    },
-    {
-      "name": "Seeker",
-      "image": "/cards/seeker.jpg",
-      "light": "Curiosity, exploration, truth-seeking.",
-      "shadow": "Skepticism, impatience, uncertainty.",
-      "reflection": "What can you do to explore the world around you?"
-    },
-    {
-      "name": "Trickster",
-      "image": "/cards/trickster.jpg",
-      "light": "Humor, intelligence, adaptability.",
-      "shadow": "Deception, irresponsibility, dishonesty.",
-      "reflection": "What can you do to use humor positively?"
-    }
-  ]
+  "deleteNote": "Delete Note"
 }

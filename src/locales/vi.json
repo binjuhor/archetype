@@ -11,56 +11,5 @@
   "saveNote": "Lưu ghi chú",
   "savedMessage": "Ghi chú của bạn đã được lưu!",
   "historyTitle": "Lịch sử",
-  "deleteNote": "Xóa ghi chú",
-  "archetypes": [
-    {
-      "name": "Người chăm sóc",
-      "image": "/cards/caregiver.jpg",
-      "light": "Tình yêu thương, sự chăm sóc, sự hy sinh.",
-      "shadow": "Phụ thuộc, thiếu tự tin, sự từ chối bản thân.",
-      "reflection": "Bạn có thể làm gì để chăm sóc bản thân tốt hơn?"
-    },
-    {
-      "name": "Người sáng tạo",
-      "image": "/cards/creator.jpg",
-      "light": "Sự sáng tạo, khả năng tưởng tượng, sự đổi mới.",
-      "shadow": "Sự hoài nghi, thiếu tự tin, sự chần chừ.",
-      "reflection": "Bạn có thể làm gì để phát huy khả năng sáng tạo của mình?"
-    },
-    {
-      "name": "Người mơ mộng",
-      "image": "/cards/dreamer.jpg",
-      "light": "Sự tưởng tượng, khả năng nhìn xa trông rộng, sự sáng tạo.",
-      "shadow": "Sự thiếu thực tế, sự trốn tránh, sự không chắc chắn.",
-      "reflection": "Bạn có thể làm gì để biến ước mơ thành hiện thực?"
-    },
-    {
-      "name": "Đứa trẻ bên trong",
-      "image": "/cards/innerchild.jpg",
-      "light": "Sự ngây thơ, sự vui vẻ, sự tự do.",
-      "shadow": "Sự tổn thương, sự thiếu tự tin, sự từ chối bản thân.",
-      "reflection": "Bạn có thể làm gì để kết nối lại với đứa trẻ bên trong của mình?"
-    },
-    {
-      "name": "Người cai trị",
-      "image": "/cards/ruler.jpg",
-      "light": "Sự lãnh đạo, sự tự tin, khả năng tổ chức.",
-      "shadow": "Sự độc tài, sự kiểm soát, sự thiếu linh hoạt.",
-      "reflection": "Bạn có thể làm gì để trở thành một nhà lãnh đạo tốt hơn?"
-    },
-    {
-      "name": "Người tìm kiếm",
-      "image": "/cards/seeker.jpg",
-      "light": "Sự tò mò, sự khám phá, sự tìm kiếm chân lý.",
-      "shadow": "Sự hoài nghi, sự thiếu kiên nhẫn, sự không chắc chắn.",
-      "reflection": "Bạn có thể làm gì để khám phá thế giới xung quanh mình?"
-    },
-    {
-      "name": "Kẻ lừa đảo",
-      "image": "/cards/trickster.jpg",
-      "light": "Sự hài hước, sự thông minh, khả năng thích ứng.",
-      "shadow": "Sự lừa dối, sự thiếu trách nhiệm, sự không trung thực.",
-      "reflection": "Bạn có thể làm gì để sử dụng sự hài hước một cách tích cực?"
-    }
-  ]
+  "deleteNote": "Xóa ghi chú"
 }
