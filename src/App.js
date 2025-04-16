@@ -171,6 +171,7 @@ export default function ArchetypeApp() {
       localStorage.setItem('archetype-notes', JSON.stringify(updatedHistory));
       setHistory(updatedHistory);
       setSaved(true);
+      setNote('');
     }
   };
 
@@ -194,7 +195,7 @@ export default function ArchetypeApp() {
         <h1 className="text-3xl font-bold">{t('title', { lng: i18n.language })}</h1>
       </div>
 
-      <div className="flex gap-2 absolute top-4 right-4">
+      <div className="flex gap-2 fixed top-4 right-4">
           <button onClick={() => changeLanguage('en')} >
             <img src="/icons/en.png" alt="English" className="w-8 h-5" />
           </button>
